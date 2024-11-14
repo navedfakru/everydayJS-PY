@@ -1,0 +1,215 @@
+"PROPERTY_DETAILS": {
+    "property_address": {
+      "ZILLOW": {
+        "estimated_value": 2729700,
+        "last_sold_price": null,
+        "last_sold_date": null,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "square_feet": 1646,
+        "lot_size": 4842,
+        "year_built": 1965,
+        "property_type": "SINGLE_FAMILY",
+        "zoning": null,
+        "on_market": false,
+        "listing_price": null,
+        "days_on_market": null,
+        "property_taxes": null,
+        "tax_assessment": 157517,
+        "school_district": null,
+        "nearby_schools": [
+          {
+            "distance": 0.3,
+            "name": "Hermosa Valley Elementary School",
+            "rating": 9,
+            "level": "Elementary",
+            "studentsPerTeacher": null,
+            "assigned": null,
+            "grades": "5-8",
+            "link": "https://www.greatschools.org/california/hermosa-beach/1845-Hermosa-Valley-Elementary-School/",
+            "type": "Public",
+            "size": null,
+            "totalCount": null,
+            "isAssigned": null
+          },
+          {
+            "distance": 0.5,
+            "name": "Hermosa View Elementary School",
+            "rating": null,
+            "level": "Elementary",
+            "studentsPerTeacher": null,
+            "assigned": null,
+            "grades": "K-2",
+            "link": "https://www.greatschools.org/california/hermosa-beach/1846-Hermosa-View-Elementary-School/",
+            "type": "Public",
+            "size": null,
+            "totalCount": null,
+            "isAssigned": null
+          }
+        ],
+        "neighborhood": null,
+        "walk_score": null,
+        "transit_score": null,
+        "bike_score": null,
+        "url": "https://www.zillow.com/homedetails/546-24th-St-Hermosa-Beach-CA-90254/20424539_zpid/",
+        "timestamp": {
+          "$date": "2024-10-14T08:24:02.748Z"
+        }
+      },
+      "REDFIN": {
+        "estimated_value": "3,279,145",
+        "last_sold_price": null,
+        "last_sold_date": null,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "square_feet": 1646,
+        "lot_size": "4,842 sq ft",
+        "year_built": 1965,
+        "property_type": "Single-family",
+        "zoning": "HBR1YY",
+        "on_market": false,
+        "listing_price": null,
+        "days_on_market": null,
+        "property_taxes": 2115,
+        "tax_assessment": 154429,
+        "school_district": "Hermosa Beach City Elementary School District",
+        "nearby_schools": [
+          {
+            "name": "Hermosa View Elementary School",
+            "rating": "-",
+            "distance": "0.5mi",
+            "grade_range": "K-3"
+          },
+          {
+            "name": "Hermosa Valley Elementary School",
+            "rating": "9/10",
+            "distance": "0.3mi",
+            "grade_range": "4-8"
+          }
+        ],
+        "neighborhood": "HERMOSA TERRACE TR",
+        "walk_score": 69,
+        "transit_score": null,
+        "bike_score": 61,
+        "url": "https://www.redfin.com/CA/Hermosa-Beach/546-24th-St-90254/home/6714032",
+        "timestamp": {
+          "$date": "2024-10-14T08:24:02.748Z"
+        }
+      }
+    },
+    "mailing_address": {
+      "ZILLOW": {
+        "estimated_value": "708,400",
+        "last_sold_price": "820,000",
+        "last_sold_date": "2014-03-13",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "square_feet": null,
+        "lot_size": "2,920 sqft",
+        "year_built": 1947,
+        "property_type": "Single Family Residence",
+        "zoning": null,
+        "on_market": true,
+        "listing_price": "699,000",
+        "days_on_market": 61,
+        "property_taxes": "9,565",
+        "tax_assessment": "449,000",
+        "school_district": "Port Washington",
+        "nearby_schools": [
+          {
+            "distance": 0.8,
+            "name": "Guggenheim Elementary School",
+            "rating": 7,
+            "level": "Elementary",
+            "studentsPerTeacher": null,
+            "assigned": null,
+            "grades": "K-5",
+            "link": "https://www.greatschools.org/new-york/port-washington/3304-Guggenheim-Elementary-School/",
+            "type": "Public",
+            "size": null,
+            "totalCount": null,
+            "isAssigned": null
+          },
+          {
+            "distance": 2.1,
+            "name": "Carrie Palmer Weber Middle School",
+            "rating": 7,
+            "level": "Middle",
+            "studentsPerTeacher": null,
+            "assigned": null,
+            "grades": "6-8",
+            "link": "https://www.greatschools.org/new-york/port-washington/3303-Carrie-Palmer-Weber-Middle-School/",
+            "type": "Public",
+            "size": null,
+            "totalCount": null,
+            "isAssigned": null
+          },
+          {
+            "distance": 1.8,
+            "name": "Paul D Schreiber Senior High School",
+            "rating": 7,
+            "level": "High",
+            "studentsPerTeacher": null,
+            "assigned": null,
+            "grades": "9-12",
+            "link": "https://www.greatschools.org/new-york/port-washington/3308-Paul-D-Schreiber-Senior-High-School/",
+            "type": "Public",
+            "size": null,
+            "totalCount": null,
+            "isAssigned": null
+          }
+        ],
+        "neighborhood": "Manorhaven",
+        "walk_score": null,
+        "transit_score": null,
+        "bike_score": null,
+        "url": "https://www.zillow.com/homedetails/10-Boxwood-Rd-Port-Washington-NY-11050/31079247_zpid/",
+        "timestamp": {
+          "$date": "2024-10-14T08:24:02.748Z"
+        }
+      },
+      "REDFIN": {
+        "estimated_value": 711343.76,
+        "last_sold_price": 61138,
+        "last_sold_date": "Jan 1, 1980",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "square_feet": 1013,
+        "lot_size": "2,920 sq ft lot",
+        "year_built": 1947,
+        "property_type": "Single-family",
+        "zoning": null,
+        "on_market": false,
+        "listing_price": 699000,
+        "days_on_market": 16,
+        "property_taxes": 9565,
+        "tax_assessment": null,
+        "school_district": "Port Washington Union Free School District",
+        "nearby_schools": [
+          {
+            "name": "Guggenheim Elementary School",
+            "rating": 7,
+            "distance": "0.8mi"
+          },
+          {
+            "name": "Carrie Palmer Weber Middle School",
+            "rating": 7,
+            "distance": "2.1mi"
+          },
+          {
+            "name": "Paul D Schreiber Senior High School",
+            "rating": 7,
+            "distance": "1.8mi"
+          }
+        ],
+        "neighborhood": "Port Washington",
+        "walk_score": 79,
+        "transit_score": null,
+        "bike_score": 48,
+        "url": "https://www.redfin.com/NY/Port-Washington/10-Boxwood-Rd-11050/home/20570886",
+        "timestamp": {
+          "$date": "2024-10-14T08:24:02.748Z"
+        }
+      }
+    }
+  }
